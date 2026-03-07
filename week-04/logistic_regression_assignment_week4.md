@@ -52,15 +52,7 @@ This creates two groups:
 
 # Part A – Logistic Regression for Inference
 
-### In R
 
-Fit the model:
-
-```r
-glm(high_price ~ size + bedrooms + neighborhood,
-    data = df,
-    family = binomial)
-```
 
 ### In Python
 
@@ -145,13 +137,9 @@ neighborhood
 type
 ```
 
-Hint:
 
-```
-pd.get_dummies()
-```
 
-### 3. Evaluate the Model
+### 3. Evaluate the Model ( check slides for more info about this)
 
 Report:
 
@@ -200,33 +188,6 @@ Create **at least three plots** such as:
 - Bar chart: housing `type`
 
 Discuss **one interesting pattern** you observe.
-
----
-
-# Optional Challenge
-
-### Interaction Terms
-
-Try:
-
-```
-size * bedrooms
-```
-
-### Regularized Logistic Regression
-
-Fit:
-
-- Ridge
-- Lasso
-
-Example:
-
-```
-LogisticRegression(penalty="l2")
-```
-
-Compare results.
 
 ---
 
