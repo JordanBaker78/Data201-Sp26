@@ -42,7 +42,7 @@ Additional rules:
 
 - You may NOT reuse a dataset from a previous DATA course  
 - You may NOT use the same dataset as another student  
-- You must get dataset approval by **[DATE]**
+
 
 ---
 
