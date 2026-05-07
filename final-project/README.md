@@ -1,5 +1,5 @@
 # DATA 201 – Final Project  
-# The Local Model Battle: One Tree vs. Many Trees
+# The  Model Battle: One Tree vs. Many Trees
 
 ## Final Project Theme
 In this project, you will investigate an important question in modern Data Science and Machine Learning:
